@@ -13,6 +13,7 @@ import Register from "./components/Register";
 import Who from "./components/Who";
 import { PopupProvider } from "./contexts/popupContext";
 import "aos/dist/aos.css";
+import ButtonRegister from "./components/ButtonRegister";
 
 function App() {
   return (
@@ -31,6 +32,7 @@ function App() {
         <Footer></Footer>
         <PopupCoach></PopupCoach>
         <BackToTop></BackToTop>
+        <ButtonRegister></ButtonRegister>
       </PopupProvider>
     </>
   );
