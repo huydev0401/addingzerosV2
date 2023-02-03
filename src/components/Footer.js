@@ -12,7 +12,11 @@ export default function Footer() {
         </p>
         <div className="flex items-center gap-[15px]">
           <span>Follow us:</span>
-          <a href="/" target="_blank" rel="noreferrer">
+          <a
+            href="https://www.facebook.com/AddingZerosNetwork"
+            target="_blank"
+            rel="noreferrer"
+          >
             <img srcSet="/icons/facebook-icon.png 2x" alt="" />
           </a>
           <a
