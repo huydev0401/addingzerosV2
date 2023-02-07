@@ -96,8 +96,8 @@ export default function However() {
             <li className="however-item">
               <img srcSet="/icons/exclamatory-icon.png 2x" alt="" />
               <span>
-                Các starup lo lắng quản trị doanh nghiệp thế nào khi có thêm các
-                nhà đầu tư tham gia?
+                Các Startup lo lắng quản trị doanh nghiệp thế nào khi có thêm
+                các nhà đầu tư tham gia?
               </span>
             </li>
           </ul>
