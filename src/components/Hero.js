@@ -21,7 +21,7 @@ export default function Hero() {
               13h30 - 17h00
             </p>
             <p className="text-[18px] md:text-[24px] font-medium">
-              ngày 17/02/2023
+              ngày 03/03/2023
             </p>
             <p className="text-[16px] md:text-[24px] mt-[10px]">
               <span className="font-medium">Địa Điểm Tổ Chức:</span> Tầng 15

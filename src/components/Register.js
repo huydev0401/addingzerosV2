@@ -7,7 +7,6 @@ export default function Register() {
     AOS.init();
   }, []);
   let f_rid = "968";
-  // let f_rid = "1214";
   let f_source = "WEBFORM";
   const f_query = window.location.search;
   if (f_query !== null && f_query !== "") {
@@ -61,7 +60,7 @@ export default function Register() {
           id: result.result,
           rows: [
             {
-              PRODUCT_ID: 16472,
+              PRODUCT_ID: 16500,
               PRICE: 0,
               QUANTITY: 1,
               TAX_INCLUDED: "Y",
