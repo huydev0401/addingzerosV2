@@ -60,7 +60,7 @@ export default function Register() {
           id: result.result,
           rows: [
             {
-              PRODUCT_ID: 16500,
+              PRODUCT_ID: 16514,
               PRICE: 0,
               QUANTITY: 1,
               TAX_INCLUDED: "Y",
